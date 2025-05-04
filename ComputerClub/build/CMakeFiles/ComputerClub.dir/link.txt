@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ComputerClub.dir/computerClub.cpp.o CMakeFiles/ComputerClub.dir/event.cpp.o CMakeFiles/ComputerClub.dir/main.cpp.o CMakeFiles/ComputerClub.dir/time.cpp.o -o ComputerClub 

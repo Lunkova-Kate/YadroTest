@@ -1,0 +1,22 @@
+2
+09:00 21:00
+100
+08:59 1 too_early             
+09:00 1 anna
+09:01 1 anna                  
+09:02 2 anna 1
+09:03 2 bob 1                 
+09:04 1 bob
+09:05 2 bob 2
+09:06 3 bob                   
+09:07 4 anna
+09:08 4 anna                  
+09:09 1 carl
+09:10 3 carl                  
+09:11 1 dan
+09:12 3 dan                   
+09:13 4 bob
+09:14 4 carl
+09:15 2 dan 1
+09:16 4 dan
+21:01 1 too_late             

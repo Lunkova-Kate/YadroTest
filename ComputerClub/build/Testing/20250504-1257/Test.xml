@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20250504-1257-Experimental"
+	Name="nekoie"
+	Generator="ctest-3.28.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="13.3.0"
+	OSName="Linux"
+	Hostname="nekoie"
+	OSRelease="6.11.0-24-generic"
+	OSVersion="#24~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar 25 20:14:34 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="96"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="3906"
+	TotalPhysicalMemory="7351"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4291.69"
+	>
+	<Testing>
+		<StartDateTime>May 04 19:57 +07</StartDateTime>
+		<StartTestTime>1746363423</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 04 19:57 +07</EndDateTime>
+		<EndTestTime>1746363423</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

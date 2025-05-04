@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/nekoie/YadroTest/ComputerClub/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ComputerClub.dir/computerClub.cpp.o -c /home/nekoie/YadroTest/ComputerClub/computerClub.cpp",
+  "file": "/home/nekoie/YadroTest/ComputerClub/computerClub.cpp",
+  "output": "CMakeFiles/ComputerClub.dir/computerClub.cpp.o"
+},
+{
+  "directory": "/home/nekoie/YadroTest/ComputerClub/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ComputerClub.dir/event.cpp.o -c /home/nekoie/YadroTest/ComputerClub/event.cpp",
+  "file": "/home/nekoie/YadroTest/ComputerClub/event.cpp",
+  "output": "CMakeFiles/ComputerClub.dir/event.cpp.o"
+},
+{
+  "directory": "/home/nekoie/YadroTest/ComputerClub/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ComputerClub.dir/main.cpp.o -c /home/nekoie/YadroTest/ComputerClub/main.cpp",
+  "file": "/home/nekoie/YadroTest/ComputerClub/main.cpp",
+  "output": "CMakeFiles/ComputerClub.dir/main.cpp.o"
+},
+{
+  "directory": "/home/nekoie/YadroTest/ComputerClub/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ComputerClub.dir/time.cpp.o -c /home/nekoie/YadroTest/ComputerClub/time.cpp",
+  "file": "/home/nekoie/YadroTest/ComputerClub/time.cpp",
+  "output": "CMakeFiles/ComputerClub.dir/time.cpp.o"
+}
+]
